@@ -11,4 +11,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
 <h2>🤳Connect with me:</h2>
-[![Jonathan | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jonathan-moon-444541262/)
+<a href="https://www.linkedin.com/in/jonathan-moon-444541262/">
+  <img align="left" alt="Jonathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
