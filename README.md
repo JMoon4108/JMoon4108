@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Auto-provisioning in Active Directory - Powershell]()
 
 <h2>🤳Connect with me:</h2>
 <a href="https://www.linkedin.com/in/jonathan-moon-444541262/">
