@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JMoon4108/osTicket-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JMoon4108/osTicket-examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
-  - [Auto-provisioning in Active Directory - Powershell]()
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JMoon4108/virtual-onprem-ad)
+  - [Auto-provisioning in Active Directory - Powershell](https://github.com/JMoon4108/active-directory-user)
 
 <h2>🤳Connect with me:</h2>
 <a href="https://www.linkedin.com/in/jonathan-moon-444541262/">
